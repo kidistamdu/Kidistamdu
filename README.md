@@ -3,7 +3,7 @@
 
 <p align="left">  <a href="https://twitter.com/kidistamdu" target="blank"><img src="https://img.shields.io/twitter/follow/kidistamdu?logo=twitter&style=for-the-badge" alt="kidistamdu" /></a> </p>
 
-- 🔭 I’m currently working on **DEFT WEB.APP**
+- 🔭 I’m currently working on **DEFT  WEB.APP**
 
 - 💬 Ask me about **HTML,CSS, JavaScript , jQuery,Bootstrap,React**
 
