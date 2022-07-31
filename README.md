@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DEFT  WEB.APP**
 
-- 💬 Ask me about **HTML,CSS, JavaScript , jQuery,Bootstrap,React**
+- 💬 Ask me about **HTML,CSS,JavaScript , jQuery,Bootstrap,React**
 
 - 📫 How to reach me **kiddoamdu@gmail.com**
 
