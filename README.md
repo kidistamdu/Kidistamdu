@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kidist Amdu </h1>
-<h3 align="center">I am an enthusiastic Front End Engineer who loves crafting amazing digital experiences. I've got a real eye for design and a knack for solving problems, which comes in handy when turning ideas into sleek and user-friendly interfaces. I'm always learning and keeping up with the latest trends and technologies to stay on top of my game.</h3>
+<h3 align="center">I am an enthusiastic Front End Engineer who loves crafting amazing digital experiences. I've got a real eye for design and a knack for solving problems, which comes in handy when turning ideas into sleek and user-friendly interfaces.</h3>
 
 - 📫 How to reach me **kiddoamdu@gmail.com**
 
